@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<adressbuch xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:noNamespaceSchemaLocation="adressbuch.xsd">
+    <eintrag>
+        <vorname>Captain</vorname>
+        <nachname>Marvel</nachname>
+        <telefonnummer>023442007</telefonnummer>
+        <geschlecht>female</geschlecht>
+        <geburtstag>15.05.1975</geburtstag>
+        <id>108094123456</id>
+    </eintrag>
+    <eintrag>
+        <vorname>Captain</vorname>
+        <nachname>America</nachname>
+        <!--<emailadresse>captain@america.com</emailadresse>-->
+        <telefonnummer>02344711</telefonnummer>
+        <telefonnummer>001911</telefonnummer>
+        <geschlecht>male</geschlecht>
+        <geburtstag>08.04.1965</geburtstag>
+        <id>108084789123</id>
+    </eintrag>
+    <eintrag>
+        <vorname>Iron</vorname>
+        <nachname>Man</nachname>
+        <!--<emailadresse>tony.stark@rub.de</emailadresse>-->
+        <geschlecht>male</geschlecht>
+        <geburtstag>17.10.1970</geburtstag>
+        <id>108089414141</id>
+    </eintrag>
+    <eintrag>
+        <vorname>Thor</vorname>
+        <nachname>Odinson</nachname>
+        <!--<emailadresse>info@w3l.de</emailadresse>-->
+        <geschlecht>male</geschlecht>
+        <geburtstag>11.12.1954</geburtstag>
+        <id>108073333333</id>
+    </eintrag>
+    <eintrag>
+        <vorname>Wonder</vorname>
+        <nachname>Woman</nachname>
+        <geschlecht>female</geschlecht>
+        <geburtstag>02.01.1941</geburtstag>
+        <id>108060333333</id>
+    </eintrag>
+
+
+</adressbuch>
