@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document xmlns="http://microsoft.com/office" <!--http://microsoft.com/office-->
+          xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"
+          xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main">
+    <body>
+        <w:p xmlns:w="http://www.other.com/" w:rsidR="00383C55"> <!--http://www.other.com/--> <!--http://www.other.com/-->
+            <w:pPr>
+                <w:custom xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main">
+                    <!-- http://schemas.openxmlformats.org/wordprocessingml/2006/main -->
+                    <color r:val="FF0000"/>
+                </w:custom>
+            </w:pPr>
+            <r rsidRPr="FFFFFF"> <!--http://microsoft.com/office--> <!--http://microsoft.com/office-->
+                <w:rPr>
+                    <w:color w:val="FFFF00"/>
+                </w:rPr>
+                <t xmlns="">This section is non-normative.</t> <!--kein Namespace-->
+            </r>
+            <p> <!--http://microsoft.com/office-->
+                <color val="000012"/>
+            </p>
+        </w:p>
+        <w:p> <!--http://schemas.openxmlformats.org/wordprocessingml/2006/main-->
+            <w:lang w:val="en-US"/> <!--http://schemas.openxmlformats.org/wordprocessingml/2006/main-->
+        </w:p>
+    </body>
+</document>
